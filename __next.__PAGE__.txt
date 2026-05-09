@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[69942,["/Proposta-Bloom-Gifts-Franchise-Portal/_next/static/chunks/0dbhjjzl8qfwv.js","/Proposta-Bloom-Gifts-Franchise-Portal/_next/static/chunks/03eq9~~w.cllv.js"],"ProposalPage"]
+2:I[69942,["/Proposta-Bloom-Gifts-Franchise-Portal/_next/static/chunks/0dbhjjzl8qfwv.js","/Proposta-Bloom-Gifts-Franchise-Portal/_next/static/chunks/0n~gt6h.pmit5.js"],"ProposalPage"]
 3:I[97367,["/Proposta-Bloom-Gifts-Franchise-Portal/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/Proposta-Bloom-Gifts-Franchise-Portal/_next/static/chunks/03eq9~~w.cllv.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"f-dEs8bOdGw8_EdCBDrk_"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/Proposta-Bloom-Gifts-Franchise-Portal/_next/static/chunks/0n~gt6h.pmit5.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"032jB-8gyziPxkNxjQ6-R"}
 5:null
