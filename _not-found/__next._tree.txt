@@ -1,2 +1,2 @@
-:HL["/Proposta-Bloom-Gifts-Franchise-Portal/_next/static/chunks/0urw8f2lk~c15.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"dtJZnqgbRZkcwiMo7TgtO"}
+:HL["/Proposta-Bloom-Gifts-Franchise-Portal/_next/static/chunks/0exq-tj6nha8p.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"aT6zxGnZ319ZLZPhx5Rmn"}
